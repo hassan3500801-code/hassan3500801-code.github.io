@@ -1,8 +1,0 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "com.sawaed.app",
-        "sha256_cert_fingerprints": ["37:05:55:90:5F:A8:38:15:53:A7:FC:21:0D:A6:F9:45:D7:FC:0A:22:9E:D9:34:25:12:36:11:7B:41:C0:3B:AF"]
-      }
-    }]
